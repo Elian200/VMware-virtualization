@@ -6,23 +6,24 @@
 
 - Describe the architecture of a private cloud
 - Identify the hardware requirements for a private
-    cloud
+    cloud.
 - Describe the software requirements for a private
-    cloud
+    cloud.
+- Describe uses for a private cloud.
 
 
 # Making the Transition to Cloud Computing
 
 - In the past:
     - Application software had to be installed on a
-       user’s computer
+       user’s computer.
           - A license for each application had to be
-             purchased
+             purchased.
 - Client/server model
     - Server computers with enhanced capabilities
        and large storage devices are used to store
-       data for multiple users
-    - Require the purchase of multi-user licenses
+       data for multiple users.
+    - Require the purchase of multi-user licenses.
 
 
 # Client/Server Model
@@ -31,38 +32,38 @@
 - Cloud computing
     - Provides applications from a server that are
        executed and managed by a client’s Web
-       browser
+       browser.
     - Cloud server providers have complete control
-       over applications
+       over applications.
           - Eliminates the need for version upgrades or
-             license management on client computers
+             license management on client computers.
 - Software as a Service (SaaS)
     - Term used to describe the application programs
-       offered through cloud computing
+       offered through cloud computing.
 
 - Any “Web-friendly” device connected to the
     Internet can access the same pool of computing
-    power and files in a cloud computing environment
+    power and files in a cloud computing environment.
 
 - A Web site or Web application that is hosted in a
-    public cloud
+    public cloud.
        - Has additional processing power available
-          within the cloud
+          within the cloud.
              - If a Web site becomes more popular, the
                 cloud automatically directs more computers
-                to serve pages
+                to serve pages.
              - If site loses popularity, the cloud will scale
                 down number of servers to reduce cost of
-                service
+                service.
 - Cloud computer is popular for its “pay-as-you-go”
-    pricing model
+    pricing model.
 
 
 - A private cloud offers same features and benefits
-    as public clouds
+    as public clouds.
        - Offers more control over enterprise and
           customer data, security, and regulatory
-          compliance
+          compliance.
 
 
 # Server Virtualization
